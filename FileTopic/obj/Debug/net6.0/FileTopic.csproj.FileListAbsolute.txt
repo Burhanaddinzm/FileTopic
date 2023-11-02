@@ -1,0 +1,14 @@
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\bin\Debug\net6.0\FileTopic.exe
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\bin\Debug\net6.0\FileTopic.deps.json
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\bin\Debug\net6.0\FileTopic.runtimeconfig.json
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\bin\Debug\net6.0\FileTopic.dll
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\bin\Debug\net6.0\FileTopic.pdb
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\obj\Debug\net6.0\FileTopic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\obj\Debug\net6.0\FileTopic.AssemblyInfoInputs.cache
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\obj\Debug\net6.0\FileTopic.AssemblyInfo.cs
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\obj\Debug\net6.0\FileTopic.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\obj\Debug\net6.0\FileTopic.dll
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\obj\Debug\net6.0\refint\FileTopic.dll
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\obj\Debug\net6.0\FileTopic.pdb
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\obj\Debug\net6.0\FileTopic.genruntimeconfig.cache
+C:\Users\Burhan\source\repos\FileTopic\FileTopic\obj\Debug\net6.0\ref\FileTopic.dll
